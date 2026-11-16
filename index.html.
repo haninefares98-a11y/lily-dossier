@@ -1,0 +1,81 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LILY - Titrage antirabique</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  background: #f3f5f7;
+  margin: 0;
+  padding: 20px;
+  color: #222;
+}
+.container {
+  max-width: 650px;
+  margin: auto;
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px #0002;
+}
+h1 {
+  text-align: center;
+  color: #234b70;
+  font-size: 23px;
+}
+h2 {
+  color: #234b70;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 7px;
+  font-size: 18px;
+}
+p {
+  padding: 7px 0;
+  border-bottom: 1px solid #eee;
+}
+strong {
+  display: inline-block;
+  min-width: 175px;
+}
+.note {
+  color: #666;
+  font-size: 13px;
+  text-align: center;
+  margin-top: 25px;
+}
+</style>
+</head>
+<body>
+<div class="container">
+
+<h1>TITRAGE ANTIRABIQUE</h1>
+
+<h2>Laboratoire</h2>
+<p><strong>Laboratoire :</strong> LABORATOIRE DÉPARTEMENTAL 31</p>
+<p><strong>Numéro de dossier :</strong> 161029051618-01</p>
+
+<h2>Informations du propriétaire</h2>
+<p><strong>Nom :</strong> BOULANOUAR</p>
+<p><strong>Prénom :</strong> DOHA</p>
+<p><strong>Code postal :</strong> 1180</p>
+<p><strong>Ville :</strong> UCCLE</p>
+<p><strong>Pays :</strong> BELGIQUE</p>
+
+<h2>Informations de l'animal</h2>
+<p><strong>Espèce :</strong> CHIEN</p>
+<p><strong>Nom :</strong> LILY</p>
+<p><strong>Date de naissance :</strong> 15/06/2026</p>
+<p><strong>Numéro de puce :</strong> 901020001221208</p>
+
+<h2>Résultat de l'analyse</h2>
+<p><strong>Date d'analyse :</strong> 04/11/2026</p>
+<p><strong>Valeur saisie :</strong> 10.45</p>
+<p><strong>Identifiant saisi :</strong> GME</p>
+<p><strong>Date de validation saisie :</strong> 05/11/2026</p>
+
+</div>
+</body>
+</html>
